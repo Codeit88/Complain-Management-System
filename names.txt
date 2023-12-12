@@ -1,0 +1,41 @@
+1 Anderson
+2 Patel
+3 Thompson
+4 Rodriguez
+5 Campbell
+6 Mitchell
+7 Chang
+8 Lewis
+9 Carter
+10 Foster
+
+//MGRS
+1 Mehmood 3
+2 Shahzaib 1
+3 Aleem 2
+
+
+//EMPS
+1 John 2 
+2 Emily 2 
+3 Ahmed 3 
+4 Jessica 3 
+5 Michael 3 
+6 Rachel 1 
+7 Mohammed 1
+8 Olivia 2
+9 David 3
+10 Sophia 2
+11 Daniel 3
+12 Emma 1
+13 Hassan 2
+14 Ashley 2
+15 Adam 3
+16 Grace 1
+17 Aisha 3
+18 Ryan 2
+19 Lily 3
+20 Nicholas 3
+21 Mia 1
+22 Ethan 1
+23 Zoe 1

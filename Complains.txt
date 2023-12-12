@@ -1,0 +1,9 @@
+1(SA) 1 1 Closed 7/12/2023
+2(D) 1 1 Assigned 7/12/2023
+3(SA) 1 1 Assigned 7/12/2023
+4(DS) 2 1 Active 7/12/2023
+5(Q) 2 1 Active 7/12/2023
+6(S) 3 1 Active 7/12/2023
+7(No water) 1 1 Closed 7/12/2023
+8(nOFEE) 1 1 Closed 8/12/2023
+9(Mana za) 2 1 Active 8/12/2023
